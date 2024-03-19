@@ -1,3 +1,5 @@
+Lab02a - Processos
+
 1 Rode o programa anterior para valores grandes de n. As mensagens sempre estar˜ao ordenadas pelo valor de i?
 
 R: As saídas estão ordenadas pelo valor de ‘i’ porque a função ‘fprintf’ é chamada dentro do ‘loop’ for que está iterando em ‘i’ de ‘1’ até ‘n-1’.
