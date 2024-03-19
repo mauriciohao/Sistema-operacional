@@ -6,4 +6,4 @@ R: As saídas estão ordenadas pelo valor de ‘i’ porque a função ‘fprint
 
 2 O que acontece se o programa anterior escreve-se as mensagenspara sys.stdout, usando print, ao inves de para sys.stderr?
 
-R:Se o programa anterior escrever as mensagens para sys.stdout usando printf em vez de fprintf para sys.stderr, as mensagens serão enviadas para a saída padrão em vez da saída de erro padrão.
+R: Se o programa anterior escrever as mensagens para sys.stdout usando printf em vez de fprintf para sys.stderr, as mensagens serão enviadas para a saída padrão em vez da saída de erro padrão.
