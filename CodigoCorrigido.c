@@ -1,3 +1,8 @@
+//Nome:Hao Yue Zheng - 10408948
+//Nome:Samuel Zheng - 10395781
+//Nome:Vitor Pasquarelli Cinalli - 10401806
+// PROJ1 -Concorrência
+
 #define _GNU_SOURCE
 #include <stdlib.h>
 #include <malloc.h>
